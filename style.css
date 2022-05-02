@@ -25,4 +25,6 @@
 
 .container {
     background-color: rgb(8, 59, 76);
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
